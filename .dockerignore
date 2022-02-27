@@ -1,0 +1,9 @@
+# Misc folders
+node_modules
+dist
+test
+
+# Misc Items
+.eslintrc.js
+.prettierrc
+README.md
